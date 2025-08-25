@@ -1,0 +1,51 @@
+.simple-button {
+  background-color: #3498db;
+  color: white;
+  font-weight: bold;
+  border-radius: 0px;
+  min-width: 60px;
+  min-height: 60px;
+  padding: 0;
+  margin: 0;
+  border: 1px solid #444;
+}
+
+.red-button {
+  background-image: none;
+  background-color: #871919;
+  color: white;
+  font-weight: bold;
+  border-radius: 0px;
+  min-width: 60px;
+  min-height: 60px;
+  padding: 0;
+  margin: 0;
+  opacity: 0.5;
+  border: 1px solid #444;
+}
+
+.green-button {
+  background-image: none;
+  background-color: green;
+  color: white;
+  font-weight: bold;
+  border-radius: 0px;
+  min-width: 60px;
+  min-height: 60px;
+  padding: 0;
+  margin: 0;
+  opacity: 0.5;
+  border: 1px solid #7cd6a1;
+}
+
+.thick-top {
+    border-top: 1px solid #888;
+}
+
+.thick-left {
+    border-left: 1px solid #888;
+}
+
+/*window {
+  background-color: #ecf0f1;
+}*/
